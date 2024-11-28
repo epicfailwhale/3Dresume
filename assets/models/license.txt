@@ -1,0 +1,11 @@
+Model Information:
+* title:	Louvre scene
+* source:	https://sketchfab.com/3d-models/louvre-scene-2babccd57f034d5cb6398159bd671684
+* author:	Dessertfox (https://sketchfab.com/Dessertfox)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Louvre scene" (https://sketchfab.com/3d-models/louvre-scene-2babccd57f034d5cb6398159bd671684) by Dessertfox (https://sketchfab.com/Dessertfox) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
